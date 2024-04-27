@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bgCyanBright(chalk.black(`\n WELCOME TO AQSA'S WORDS AND LETTERS COUNTER:\n`)));
